@@ -2,7 +2,7 @@
   "magisk": {
     "version": "1dcf3255",
     "versionCode": "26402",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/app-release.apk",
+    "link": "https://raw.githubusercontent.com/andrewz1/magisk/master/app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/notes.md"
   },
   "stub": {
