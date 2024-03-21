@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "1dcf3255",
-    "versionCode": "26402",
+    "version": "81658d45",
+    "versionCode": "27002",
     "link": "https://raw.githubusercontent.com/andrewz1/magisk/master/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/notes.md"
+    "note": "https://raw.githubusercontent.com/andrewz1/magisk/master/notes.md"
   },
   "stub": {
-    "versionCode": "38",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/stub-release.apk"
+    "versionCode": "39",
+    "link": "https://raw.githubusercontent.com/andrewz1/magisk/master/stub-release.apk"
   }
 }
